@@ -1,14 +1,19 @@
 ---
-title: "Paper Title Number 2"
+title: "Replace with Paper Title"
 collection: publications
-category: manuscripts
+category: manuscripts # TODO: Use `manuscripts`, `conferences`, or `books` to group items.
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2024-01-01 # TODO: Update to the publication or working paper date.
+venue: "Journal or Working Paper Series"
+excerpt: "One-sentence summary used in lists."
+paperurl:
+slidesurl:
+bibtexurl:
+citation: 'Author, A., & Coauthor, B. (Year). "Paper title." Journal, Volume(Issue).'
+published: false # TODO: Switch to true when ready to show on the site.
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<!-- TODO: Replace this paragraph with the abstract or summary you want on the publication detail page. -->
+Provide context, key findings, data sources, and links to replication packages if appropriate.
+
+<!-- OPTIONAL: Use additional Markdown below for acknowledgements, media coverage, or related work. -->

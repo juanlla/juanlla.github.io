@@ -1,33 +1,15 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# Minimal navigation for a single-page layout.
+# Each link jumps to the corresponding section on the homepage.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research Papers"
+    url: /#research-papers
+    # TODO: Update the Research section on the homepage with your featured work.
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    url: /#cv
+    # TODO: Replace the homepage CV link with your latest PDF.
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /#teaching
+    # TODO: Summarize recent courses and link to materials.
