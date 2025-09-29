@@ -77,9 +77,11 @@ hr.divider-light {
 }
 
 .author__avatar img {
-  border-radius: 999px;
-  border: 1px solid rgba($accent-color, 0.2);
-  box-shadow: 0 0 0 6px rgba($accent-color, 0.06);
+  border-radius: 16px;
+  border: 1px solid rgba($accent-color, 0.15);
+  box-shadow: 0 6px 24px -12px rgba($accent-color, 0.4);
+  width: 220px;
+  max-width: 100%;
 }
 
 @media (max-width: 768px) {
