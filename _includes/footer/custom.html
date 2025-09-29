@@ -16,4 +16,50 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var sentinel = document.getElementById('sidebar-sentinel');
+    var supportsObserver = 'IntersectionObserver' in window && 'matchMedia' in window;
+    if (!sentinel || !supportsObserver) {
+      return;
+    }
+
+    var body = document.body;
+    var mq = window.matchMedia('(min-width: 1024px)');
+
+    function applyCollapse(shouldCollapse) {
+      if (!mq.matches) {
+        body.classList.remove('sidebar-collapsed');
+        return;
+      }
+      body.classList.toggle('sidebar-collapsed', shouldCollapse);
+    }
+
+    var observer = new IntersectionObserver(function (entries) {
+      if (!entries || !entries.length) {
+        return;
+      }
+      var entry = entries[0];
+      var shouldCollapse = !entry.isIntersecting && entry.boundingClientRect.top < 0;
+      applyCollapse(shouldCollapse);
+    }, {
+      rootMargin: '-80px 0px 0px 0px',
+      threshold: 0
+    });
+
+    observer.observe(sentinel);
+    applyCollapse(false);
+
+    if (mq.addEventListener) {
+      mq.addEventListener('change', function () {
+        applyCollapse(false);
+      });
+    } else if (mq.addListener) {
+      mq.addListener(function () {
+        applyCollapse(false);
+      });
+    }
+  });
+</script>
+
 <!-- end custom footer snippets -->

@@ -16,6 +16,8 @@ Welcome! This page highlights my research papers, CV, and teaching.
   <a class="btn" href="#teaching">Teaching</a>
 </div>
 
+<div id="sidebar-sentinel" class="sidebar-sentinel" aria-hidden="true"></div>
+
 <section id="research-papers" class="section-block" markdown="1">
 ## Research Papers
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
