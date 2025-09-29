@@ -14,17 +14,6 @@
     {% endif %}
   </div>
 
-  {% if author.institution_logo %}
-  <div class="author__institution-logo">
-    {% assign logo_alt = author.employer | default: 'Institution logo' %}
-    {% if author.institution_logo contains "://" %}
-    	<img src="{{ author.institution_logo }}" alt="{{ logo_alt }}" />
-    {% else %}
-    	<img src="{{ author.institution_logo | prepend: base_path }}" alt="{{ logo_alt }}" />
-    {% endif %}
-  </div>
-  {% endif %}
-
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}

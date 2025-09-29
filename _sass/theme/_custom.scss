@@ -26,46 +26,38 @@ h6 {
   color: var(--global-text-color);
 }
 
-.hero-media {
+.masthead__inner-wrap {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1.75rem;
-  align-items: flex-start;
-  margin: 2rem 0 2.5rem;
+  align-items: center;
+  gap: 1.25rem;
+  flex-wrap: nowrap;
 }
 
-.hero-media__item {
-  margin: 0;
+.masthead__logo {
   flex: 0 0 auto;
+  display: flex;
+  align-items: center;
 }
 
-.hero-media__item img {
-  width: 100%;
+.masthead__logo img {
+  width: 42px;
   height: auto;
   display: block;
 }
 
-.hero-media__item--portrait {
-  max-width: 260px;
+.masthead__menu {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
-.hero-media__item--portrait img {
-  border-radius: 18px;
-  border: 1px solid rgba($accent-color, 0.15);
-  box-shadow: 0 10px 30px -14px rgba($accent-color, 0.45);
-}
+@media (max-width: 768px) {
+  .masthead__inner-wrap {
+    justify-content: space-between;
+  }
 
-.hero-media__item--logo {
-  max-width: 210px;
-  background: #fff;
-  padding: 0.85rem;
-  border-radius: 14px;
-  border: 1px solid rgba($accent-color, 0.12);
-  box-shadow: 0 8px 22px -12px rgba($accent-color, 0.35);
-}
-
-.hero-media__item--logo img {
-  border-radius: 8px;
+  .masthead__logo img {
+    width: 36px;
+  }
 }
 
 
@@ -127,30 +119,7 @@ hr.divider-light {
   max-width: 100%;
 }
 
-.author__institution-logo {
-  margin-top: 1.4rem;
-}
-
-.author__institution-logo img {
-  width: 190px;
-  max-width: 100%;
-  border-radius: 12px;
-  border: 1px solid rgba($accent-color, 0.12);
-  background: #fff;
-  padding: 0.65rem;
-  box-shadow: 0 6px 18px -12px rgba($accent-color, 0.35);
-}
-
 @media (max-width: 768px) {
-  .hero-media {
-    justify-content: center;
-    text-align: center;
-  }
-
-  .hero-media__item {
-    max-width: min(75vw, 280px);
-  }
-
   .section-block {
     padding: 2.25rem 0;
   }
@@ -158,5 +127,22 @@ hr.divider-light {
   .quick-links {
     gap: 0.5rem;
     justify-content: center;
+  }
+}
+
+@media (min-width: 1024px) {
+  .sidebar {
+    max-width: 320px;
+    width: 320px;
+  }
+
+  .page {
+    margin-left: calc(320px + 3rem);
+    max-width: min(840px, calc(100% - 320px - 4rem));
+    float: none;
+  }
+
+  .author__avatar img {
+    width: 260px;
   }
 }

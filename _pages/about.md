@@ -10,17 +10,6 @@ redirect_from:
 <!-- TODO: Replace this sentence with a one-line introduction (e.g., "PhD candidate in Economics at ..."). -->
 Welcome! This page highlights my research papers, CV, and teaching.
 
-<!-- TIP: Replace the images below with your portrait and institution logo stored in `images/`. -->
-<div class="hero-media">
-  <!-- TODO: Update both `src` attributes and `alt` text with your real files and description. -->
-  <figure class="hero-media__item hero-media__item--portrait">
-    <img src="{{ '/images/profile.png' | relative_url }}" alt="Portrait placeholder" />
-  </figure>
-  <figure class="hero-media__item hero-media__item--logo">
-    <img src="{{ '/images/institution-logo.png' | relative_url }}" alt="Institution logo placeholder" />
-  </figure>
-</div>
-
 <div class="quick-links">
   <a class="btn" href="#research-papers">Research Papers</a>
   <a class="btn" href="#cv">CV</a>

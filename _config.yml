@@ -16,6 +16,7 @@ description              : &description "PhD candidate in economics at IIES, Sto
 url                      : https://juanlla.github.io # TODO: Update if you use a custom domain.
 baseurl                  : "" # TODO: Leave blank for user.github.io sites; set to "/subpath" otherwise.
 repository               : "juanlla/juanlla.github.io" # TODO: GitHub repo in username/repo format.
+header_logo              : "/images/institution-logo.png" # TODO: Logo displayed left of the top navigation. Remove or update path if unused.
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +24,6 @@ repository               : "juanlla/juanlla.github.io" # TODO: GitHub repo in us
 author:
   # Biographic information
   avatar           : "profile.png" # TODO: Replace with the filename of your profile photo stored in `images/`.
-  institution_logo : "/images/institution-logo.png" # TODO: Optional logo shown under the sidebar photo.
   name             : "Juan Llavador Peralt" # TODO: This appears in the sidebar header.
   pronouns         : # TODO: Optional pronouns, e.g., "she/her".
   bio              : "Short biography for the left-hand sidebar" # TODO: 1-2 sentences for the sidebar.
