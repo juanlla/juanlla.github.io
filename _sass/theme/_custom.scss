@@ -1,0 +1,93 @@
+$accent-color: #3f6d74;
+$accent-hover: darken($accent-color, 10%);
+$accent-muted: mix(#fff, $accent-color, 82%);
+
+:root {
+  --global-link-color: #{$accent-color};
+  --global-link-color-hover: #{$accent-hover};
+  --global-link-color-visited: #{mix(#fff, $accent-color, 40%)};
+}
+
+body {
+  font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  font-weight: 400;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--global-text-color);
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.quick-links .btn {
+  border-radius: 999px;
+  border: 1px solid $accent-color;
+  background-color: transparent;
+  color: $accent-color;
+  padding: 0.55rem 1.4rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.quick-links .btn:hover,
+.quick-links .btn:focus {
+  background-color: rgba($accent-color, 0.12);
+  color: $accent-hover;
+  border-color: $accent-hover;
+}
+
+.section-block {
+  padding: 2.75rem 0;
+  border-top: 1px solid rgba($accent-color, 0.15);
+}
+
+.section-block:first-of-type {
+  padding-top: 0;
+  border-top: 0;
+  margin-top: 0;
+}
+
+.section-block:last-of-type {
+  padding-bottom: 0;
+}
+
+.section-block > h2 {
+  margin-top: 0;
+}
+
+hr.divider-light {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, rgba($accent-color, 0), rgba($accent-color, 0.35), rgba($accent-color, 0));
+  margin: 3rem 0;
+}
+
+.author__avatar img {
+  border-radius: 999px;
+  border: 1px solid rgba($accent-color, 0.2);
+  box-shadow: 0 0 0 6px rgba($accent-color, 0.06);
+}
+
+@media (max-width: 768px) {
+  .section-block {
+    padding: 2.25rem 0;
+  }
+
+  .quick-links {
+    gap: 0.5rem;
+  }
+}
