@@ -25,12 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png" # TODO: Replace with the filename of your profile photo stored in `images/`.
   name             : "Juan Llavador Peralt" # TODO: This appears in the sidebar header.
-  pronouns         : # TODO: Optional pronouns, e.g., "she/her".
-  bio              : "Short biography for the left-hand sidebar" # TODO: 1-2 sentences for the sidebar.
-  location         : "Earth" # TODO: Update with your city and country.
+  location         : "Sweden" # TODO: Update with your city and country.
   employer         : "IIES, Stockholm University" # TODO: Update with your current affiliation.
   uri              : # TODO: Personal or departmental homepage URL.
-  email            : "none@example.org" # TODO: Replace with your contact email or remove.
+  email            : "juan.llavadorperalt@iies.su.se" # TODO: Replace with your contact email or remove.
 
   # Academic websites
   academia         : # URL

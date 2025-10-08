@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 <!-- TODO: Replace this sentence with a one-line introduction (e.g., "PhD candidate in Economics at ..."). -->
-Welcome! This page highlights my research papers, CV, and teaching. You can always grab the latest version of my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> without leaving this page.
+Welcome! 
 
-<div class="quick-links">
-  <a class="btn" href="#research-papers">Research Papers</a>
-  <a class="btn" href="#cv">CV</a>
-  <a class="btn" href="#teaching">Teaching</a>
-</div>
+I am a PhD candidate in Economics at IIES, Stockholm University
 
-<div id="sidebar-sentinel" class="sidebar-sentinel" aria-hidden="true"></div>
+**I will be on the 2025/26 Job Market**.
+
+This page highlights my research papers, CV, and teaching. You can always grab the latest version of my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> without leaving this page.
+
+
 
 <section id="research-papers" class="section-block" markdown="1">
 ## Research Papers
