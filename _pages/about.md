@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- TODO: Replace this sentence with a one-line introduction (e.g., "PhD candidate in Economics at ..."). -->
-Welcome! This page highlights my research papers, CV, and teaching.
+Welcome! This page highlights my research papers, CV, and teaching. You can always grab the latest version of my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> without leaving this page.
 
 <div class="quick-links">
   <a class="btn" href="#research-papers">Research Papers</a>
@@ -34,8 +34,7 @@ Write a brief overview of the themes you study and the type of work you publish.
 
 <section id="cv" class="section-block" markdown="1">
 ## Curriculum Vitae
-<!-- TODO: Upload your CV to `files/` or `assets/` and update the link below. -->
-- [`Download CV (PDF)`](#) — Replace `#` with `/files/juan-llavador-cv.pdf` (or similar) once uploaded.
+- [`Download CV (PDF)`](/files/cv/cv.pdf){:target="_blank" rel="noopener"} — Opens in a new tab so you can keep browsing here.
 - Mention notable awards, fellowships, or affiliations you want to highlight at a glance.
 </section>
 
