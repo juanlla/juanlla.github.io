@@ -14,7 +14,7 @@ I am a PhD candidate in Economics at IIES, Stockholm University
 
 **I will be on the 2025/26 Job Market**.
 
-This page highlights my research papers, CV, and teaching. You can always grab the latest version of my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">Curriculum Vitae</a> without leaving this page.
+Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
 
 
