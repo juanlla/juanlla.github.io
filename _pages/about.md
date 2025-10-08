@@ -21,27 +21,10 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 <section id="research-papers" class="section-block" markdown="1">
 ## Research Papers
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
-Write a brief overview of the themes you study and the type of work you publish.
-
-### Featured Papers
-<!-- TODO: List 3–4 representative publications or working papers. Link to PDFs or journals if available. -->
-1. **Paper Title** — Venue or status. [`PDF`](#)
-2. **Second Paper** — Note collaborators or key result. [`Abstract`](#)
-3. **Third Paper** — Add a short impact statement. [`Replication`](#)
-
-<!-- TIP: For a full list, edit the files in `_publications/` and set `published: true` when ready. -->
-</section>
-
-<section id="cv" class="section-block" markdown="1">
-## Curriculum Vitae
-- [`Download CV (PDF)`](/files/cv/cv.pdf){:target="_blank" rel="noopener"} — Opens in a new tab so you can keep browsing here.
-- Mention notable awards, fellowships, or affiliations you want to highlight at a glance.
-</section>
 
 <section id="teaching" class="section-block" markdown="1">
 ## Teaching
 <!-- TODO: Summarize your teaching interests or philosophy in 2-3 sentences. -->
-Share the types of courses you teach and what you emphasize in the classroom.
 
 ### Recent or Upcoming Courses
 <!-- TODO: Use `_teaching/` entries for more detail; list highlights here. -->
