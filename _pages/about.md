@@ -45,8 +45,7 @@ Share the types of courses you teach and what you emphasize in the classroom.
 
 ### Recent or Upcoming Courses
 <!-- TODO: Use `_teaching/` entries for more detail; list highlights here. -->
-- **Course Title** — Institution, Term. Short description or role.
-- **Second Course** — Key topics, enrollment, or materials. [`Syllabus`](#)
+- **PhD Mathematics II** — Lecturer, Stockholm University (2024). [`Course outline`](/files/math2/outline.pdf){:target="_blank" rel="noopener"} · [`Slides 1`](/files/math2/slides1.pdf){:target="_blank" rel="noopener"} · [`Slides 2`](/files/math2/slides2.pdf){:target="_blank" rel="noopener"} · [`Slides 3`](/files/math2/slides3.pdf){:target="_blank" rel="noopener"} · [`Slides 4`](/files/math2/slides4.pdf){:target="_blank" rel="noopener"} · [`Slides 5`](/files/math2/slides5.pdf){:target="_blank" rel="noopener"}
 </section>
 
 <!-- OPTIONAL: Add sections for contact information or office hours if needed. Keep the page minimal otherwise. -->
