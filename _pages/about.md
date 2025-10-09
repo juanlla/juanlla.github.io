@@ -29,7 +29,7 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 - **PhD Mathematics II** — Lecturer, Stockholm Doctoral Program in Economics (2024). 
   - [`Course outline`](/files/math2/outline.pdf){:target="_blank" rel="noopener"} · [`Slides 1`](/files/math2/slides1.pdf){:target="_blank" rel="noopener"} · [`Slides 2`](/files/math2/slides2.pdf){:target="_blank" rel="noopener"} · [`Slides 3`](/files/math2/slides3.pdf){:target="_blank" rel="noopener"} · [`Slides 4`](/files/math2/slides4.pdf){:target="_blank" rel="noopener"} · [`Slides 5`](/files/math2/slides5.pdf){:target="_blank" rel="noopener"}
 </section>
-- **PhD Macroeconomics I** - Teaching Assitant, Stockholm Doctoral Program in Economics (2022).
-- **EC210 Macroeconomic Principles** - Teaching Assitant, LSE (2019-2020)
+- **PhD Macroeconomics I** - Teaching Assistant, Stockholm Doctoral Program in Economics (2022).
+- **EC210 Macroeconomic Principles** - Teaching Assistant, LSE (2019-2020)
 
 <!-- OPTIONAL: Add sections for contact information or office hours if needed. Keep the page minimal otherwise. -->
