@@ -6,10 +6,6 @@ main:
     url: /#research-papers
     # TODO: Update the Research section on the homepage with your featured work.
 
-  - title: "CV"
-    url: /#cv
-    # TODO: Replace the homepage CV link with your latest PDF.
-
   - title: "Teaching"
     url: /#teaching
     # TODO: Summarize recent courses and link to materials.
