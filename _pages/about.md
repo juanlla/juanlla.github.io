@@ -12,7 +12,7 @@ Welcome!
 
 I am a PhD candidate in Economics at IIES, Stockholm University
 
-**I will be on the 2025/26 Job Market**.
+**I am on the 2025/26 Job Market**.
 
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
