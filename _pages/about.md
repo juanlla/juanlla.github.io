@@ -16,8 +16,6 @@ I am a PhD candidate in Economics at IIES, Stockholm University.
 
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
-
-
 <section id="research-papers" class="section-block" markdown="1">
 # Job Market Paper
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
@@ -40,7 +38,7 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 <!-- TODO: Summarize your teaching interests or philosophy in 2-3 sentences. -->
 
 <!-- TODO: Use `_teaching/` entries for more detail; list highlights here. -->
-- **PhD Mathematics II** — Lecturer, Stockholm Doctoral Program in Economics (2024). 
+- **PhD Mathematics II** — (Probability Part) Lecturer, Stockholm Doctoral Program in Economics (2024). 
   - [`Course outline`](/files/math2/outline.pdf){:target="_blank" rel="noopener"} 
   - [`Slides 1`](/files/math2/slides1.pdf){:target="_blank" rel="noopener"} 
   - [`Slides 2`](/files/math2/slides2.pdf){:target="_blank" rel="noopener"} 
