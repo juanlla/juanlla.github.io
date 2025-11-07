@@ -24,7 +24,7 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 ### The Granular Drag on Growth, 2025
 
 
-<a href="/files/papers/Llavador-JMP.pdf" target="_blank" rel="noopener">PDF</a>
+<a href="/files/Llavador-JMP.pdf" target="_blank" rel="noopener">PDF</a>
 
 
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
