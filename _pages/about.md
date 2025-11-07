@@ -10,7 +10,7 @@ redirect_from:
 <!-- TODO: Replace this sentence with a one-line introduction (e.g., "PhD candidate in Economics at ..."). -->
 Welcome! 
 
-I am a PhD candidate in Economics at IIES, Stockholm University
+I am a PhD candidate in Economics at IIES, Stockholm University. 
 
 **I am on the 2025/26 Job Market**.
 
@@ -30,6 +30,9 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
 ### Inflation Persistence and a New Phillips Curve, 2024
 (with Chek Choi, Marcus Hagedorn and Kurt Mitman)
+<a href="/files/NKPC_slides.pdf" target="_blank" rel="noopener">Slides</a>
+
+
 
 --- 
 <section id="teaching" class="section-block" markdown="1">
