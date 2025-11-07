@@ -20,7 +20,7 @@ I am a PhD candidate in Economics at IIES, Stockholm University.
 
 ### Job Market Paper
 #### The Granular Drag on Growth, 2025
-[PDF](/files/papers/Llavador-JMP.pdf){:target="_blank" rel="noopener"}
+[PDF](/files/papers/Llavador-JMP.pdf)
 
 ### Other Research
 **Inflation Persistence and a New Phillips Curve, 2024**  
