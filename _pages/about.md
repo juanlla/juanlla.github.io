@@ -17,9 +17,9 @@ I am a PhD candidate in Economics at IIES, Stockholm University.
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
 <section id="research-papers" class="section-block" markdown="1">
-# Job Market Paper
+## Research Papers
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
-### The Granular Drag on Growth, 2025
+### The Granular Drag on Growth, 2025 (Job Market Paper)
 
 
 <a href="/files/Llavador-JMP.pdf" target="_blank" rel="noopener">PDF</a>
