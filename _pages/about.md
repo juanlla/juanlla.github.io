@@ -23,6 +23,9 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
 ### The Granular Drag on Growth, 2025
 
+
+<a href="/files/papers/Llavador-JMP.pdf" target="_blank" rel="noopener">PDF</a>
+
 ## Other Research
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
 ### Inflation Persistence and a New Phillips Curve, 2024
