@@ -41,9 +41,9 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 - **PhD Mathematics II** — (Probability Part) Lecturer, Stockholm Doctoral Program in Economics (2024). 
   - [`Course outline`](/files/math2/outline.pdf){:target="_blank" rel="noopener"} 
   - [`Slides 1`](/files/math2/slides1.pdf){:target="_blank" rel="noopener"} 
-  - [`Slides 2`](/files/math2/slides2.pdf){:target="_blank" rel="noopener"} 
-  - [`Slides 3`](/files/math2/slides3.pdf){:target="_blank" rel="noopener"} 
-  - [`Slides 4`](/files/math2/slides4.pdf){:target="_blank" rel="noopener"}
+  - [`Slides 2`](/files/math2/slides2.pdf){:target="_blank" rel="noopener"} [`Handwritten Notes for Lecture 2`](/files/math2/class2_notes.pdf)
+  - [`Slides 3`](/files/math2/slides3.pdf){:target="_blank" rel="noopener"} [`Handwritten Notes for Lecture 3`](/files/math2/class3_notes.pdf)
+  - [`Slides 4`](/files/math2/slides4.pdf){:target="_blank" rel="noopener"} [`Handwritten Notes for Lecture 4`](/files/math2/class4_notes.pdf)
   - [`Slides 5`](/files/math2/slides5.pdf){:target="_blank" rel="noopener"}
 </section>
 - **PhD Macroeconomics I** - Teaching Assistant, Stockholm Doctoral Program in Economics (2022).
