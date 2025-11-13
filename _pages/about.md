@@ -16,11 +16,7 @@ I am a PhD candidate in Economics at IIES, Stockholm University.
 
 In Spring 2025, I visited the Harvard Economics Department.
 
-References: 
-- [Per Krusell](http://perseus.iies.su.se/~pkrus/)
-- [Xavier Gabaix](https://xgabaix.scholars.harvard.edu/)
-- [Joshua Weiss](https://sites.google.com/site/weissjoshuam/home)
-- [Timo Boppart](https://www.su.se/english/profiles/tbopp-1.191787)
+References: [Per Krusell](http://perseus.iies.su.se/~pkrus/), [Xavier Gabaix](https://xgabaix.scholars.harvard.edu/), [Joshua Weiss](https://sites.google.com/site/weissjoshuam/home), [Timo Boppart](https://www.su.se/english/profiles/tbopp-1.191787)
 
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
