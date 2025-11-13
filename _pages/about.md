@@ -10,14 +10,16 @@ redirect_from:
 <!-- TODO: Replace this sentence with a one-line introduction (e.g., "PhD candidate in Economics at ..."). -->
 Welcome! 
 
-I am a PhD candidate in Economics at IIES, Stockholm University. 
-
 **I am on the 2025/26 Job Market**.
+
+I am a PhD candidate in Economics at IIES, Stockholm University. 
 
 In Spring 2025, I visited the Harvard Economics Department.
 
-References: [Per Krusell](http://perseus.iies.su.se/~pkrus/), [Xavier Gabaix](https://xgabaix.scholars.harvard.edu/), [Joshua Weiss](https://sites.google.com/site/weissjoshuam/home), [Timo Boppart](https://www.su.se/english/profiles/tbopp-1.191787)
-
+References: <a href="http://perseus.iies.su.se/~pkrus/" target="_blank" rel="noopener">Per Krusell</a>, 
+<a href="https://xgabaix.scholars.harvard.edu/" target="_blank" rel="noopener">Xavier Gabaix</a>, 
+<a href="https://sites.google.com/site/weissjoshuam/home" target="_blank" rel="noopener">Joshua Weiss</a>, 
+<a href="https://www.su.se/english/profiles/tbopp-1.191787" target="_blank" rel="noopener">Timo Boppart</a>
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
 <section id="research-papers" class="section-block" markdown="1">
