@@ -135,39 +135,3 @@ hr.divider-light {
   }
 }
 
-
-@media (min-width: 1024px) {
-  .sidebar {
-    max-width: 320px;
-    width: 320px;
-    transition: opacity 0.25s ease, visibility 0.25s ease;
-  }
-
-  .page {
-    margin-left: calc(320px + 3rem);
-    max-width: min(960px, calc(100% - 320px - 4rem));
-    float: none;
-  }
-
-  .author__avatar img {
-    width: 260px;
-  }
-
-  body.sidebar-collapsed .sidebar {
-    opacity: 0;
-    visibility: hidden;
-    pointer-events: none;
-    display: none;
-  }
-
-  body.sidebar-collapsed .page {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: min(1040px, calc(100% - 4rem));
-  }
-
-  body.sidebar-collapsed #main {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
