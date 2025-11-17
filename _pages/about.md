@@ -12,7 +12,7 @@ Welcome to my page!
 
 I am a PhD candidate in Economics at the Institute for International Economic Studies (IIES), Stockholm University. In Spring 2025, I was a Visiting Research Fellow in the Economics Department at Harvard University. I am a **macroeconomist** interested in how micro-heterogeneity influences aggregate outcomes. My current research combines theory, micro-data, and quantitative methods to study how firm-level shocks and market structure affect expected productivity growth.
 
-**I am on the 2025/26 Job Market**.
+**I am on the 2025/26 Academic Job Market**.
 
 References: <a href="http://perseus.iies.su.se/~pkrus/" target="_blank" rel="noopener">Per Krusell</a>, 
 <a href="https://xgabaix.scholars.harvard.edu/" target="_blank" rel="noopener">Xavier Gabaix</a>, 
