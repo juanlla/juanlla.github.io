@@ -10,7 +10,7 @@ redirect_from:
 <!-- TODO: Replace this sentence with a one-line introduction (e.g., "PhD candidate in Economics at ..."). -->
 Welcome to my page! 
 
-I am a PhD candidate in Economics at the Institute for International Economic Studies (IIES), Stockholm University. In Spring 2025, I was a Visiting Research Fellow in the Economics Department at Harvard University. I am a macroeconomist interested in how micro-heterogeneity influences aggregate outcomes. My current research combines theory, micro-data, and quantitative methods to study firm dynamics and productivity growth.
+I am a PhD candidate in Economics at the Institute for International Economic Studies (IIES), Stockholm University. In Spring 2025, I was a Visiting Research Fellow in the Economics Department at Harvard University. I am a **macroeconomist** interested in how micro-heterogeneity influences aggregate outcomes. My current research combines theory, micro-data, and quantitative methods to study how firm-level shocks and market structure affect expected productivity growth.
 
 **I am on the 2025/26 Job Market**.
 
@@ -26,7 +26,6 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 <section id="research-papers" class="section-block" markdown="1">
 Research Papers
 ======
-<!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
 ### The Granular Drag on Growth, 2025 (Job Market Paper)
 
 
@@ -37,12 +36,11 @@ Research Papers
 ### Inflation Persistence and a New Phillips Curve, 2024
 (with Chek Choi, Marcus Hagedorn and Kurt Mitman)
 <a href="/files/NKPC_slides.pdf" target="_blank" rel="noopener">Slides</a>
-
-
-
 --- 
+
 <section id="teaching" class="section-block" markdown="1">
-## Teaching
+Teaching
+======
 <!-- TODO: Summarize your teaching interests or philosophy in 2-3 sentences. -->
 
 <!-- TODO: Use `_teaching/` entries for more detail; list highlights here. -->
