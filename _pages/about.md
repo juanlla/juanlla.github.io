@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 <!-- TODO: Replace this sentence with a one-line introduction (e.g., "PhD candidate in Economics at ..."). -->
-Welcome! 
+Welcome to my page! 
+
+I am a PhD candidate in Economics at the Institute for International Economic Studies (IIES), Stockholm University. In Spring 2025, I was a Visiting Research Fellow in the Economics Department at Harvard University. I am a macroeconomist interested in how micro-heterogeneity influences aggregate outcomes. My current research combines theory, micro-data, and quantitative methods to study firm dynamics and productivity growth.
 
 **I am on the 2025/26 Job Market**.
-
-I am a PhD candidate in Economics at IIES, Stockholm University. 
-
-In Spring 2025, I visited the Harvard Economics Department.
 
 References: <a href="http://perseus.iies.su.se/~pkrus/" target="_blank" rel="noopener">Per Krusell</a>, 
 <a href="https://xgabaix.scholars.harvard.edu/" target="_blank" rel="noopener">Xavier Gabaix</a>, 
@@ -24,8 +22,10 @@ References: <a href="http://perseus.iies.su.se/~pkrus/" target="_blank" rel="noo
 
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
+
 <section id="research-papers" class="section-block" markdown="1">
-## Research Papers
+Research Papers
+======
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
 ### The Granular Drag on Growth, 2025 (Job Market Paper)
 
