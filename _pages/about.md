@@ -22,7 +22,7 @@ References: <a href="http://perseus.iies.su.se/~pkrus/" target="_blank" rel="noo
 
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> 
 
-
+---
 <section id="research-papers" class="section-block" markdown="1">
 Research Papers
 ======
@@ -36,8 +36,8 @@ Research Papers
 ### Inflation Persistence and a New Phillips Curve, 2024
 (with Chek Choi, Marcus Hagedorn and Kurt Mitman)
 <a href="/files/NKPC_slides.pdf" target="_blank" rel="noopener">Slides</a>
---- 
 
+---
 <section id="teaching" class="section-block" markdown="1">
 Teaching
 ======
