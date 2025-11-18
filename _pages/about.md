@@ -24,7 +24,7 @@ Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a>
 
 ---
 <section id="research-papers" class="section-block" markdown="1">
-Research Papers
+Working Papers
 ======
 ### The Granular Drag on Growth, 2025 (Job Market Paper)
 
@@ -36,6 +36,14 @@ Research Papers
 ### Inflation Persistence and a New Phillips Curve, 2024
 (with Chek Choi, Marcus Hagedorn and Kurt Mitman)
 <a href="/files/NKPC_slides.pdf" target="_blank" rel="noopener">Slides</a>  <a href="/files/NKPC.pdf" target="_blank" rel="noopener">PDF</a>
+
+Work in Progress
+======
+### Skewed Firm Dynamics 
+(Draft coming soon!)
+
+### Industrial Policy with Fat Tails
+(with Thomas Mikaelsen)
 
 ---
 <section id="teaching" class="section-block" markdown="1">
