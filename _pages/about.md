@@ -23,7 +23,7 @@ References: <a href="http://perseus.iies.su.se/~pkrus/" target="_blank" rel="noo
 <a href="https://www.su.se/english/profiles/tbopp-1.191787" target="_blank" rel="noopener">Timo Boppart</a>
 
 
-Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> and <a href="/files/Llavador_JMP.pdf" target="_blank" rel="noopener">Job Market Paper</a>.
+Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> and <a href="/files/Llavador-JMP.pdf" target="_blank" rel="noopener">Job Market Paper</a>.
 
 ---
 <section id="research-papers" class="section-block" markdown="1">
