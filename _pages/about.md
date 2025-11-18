@@ -12,7 +12,7 @@ Welcome to my page!
 
 I am a PhD candidate in Economics at the Institute for International Economic Studies (IIES), Stockholm University. In Spring 2025, I was a Visiting Research Fellow in the Economics Department at Harvard University. 
 
-My research focuses on *macroeconomics*, with a particular emphasis on how *micro-heterogeneity* shapes aggregate outcomes. In my current work, I combine theory, micro-data, and quantitative methods to study how firm-level shocks and market structure influence productivity growth.
+My research focuses on macroeconomics, with a particular emphasis on how micro-heterogeneity shapes aggregate outcomes. In my current work, I combine theory, micro-data, and quantitative methods to study how firm-level shocks and market structure influence productivity growth.
 
 
 **I am on the 2025/26 Academic Job Market**.
