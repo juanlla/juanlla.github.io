@@ -35,7 +35,7 @@ Research Papers
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
 ### Inflation Persistence and a New Phillips Curve, 2024
 (with Chek Choi, Marcus Hagedorn and Kurt Mitman)
-<a href="/files/NKPC_slides.pdf" target="_blank" rel="noopener">Slides</a>
+<a href="/files/NKPC_slides.pdf" target="_blank" rel="noopener">Slides</a>  <a href="/files/NKPC.pdf" target="_blank" rel="noopener">PDF</a>
 
 ---
 <section id="teaching" class="section-block" markdown="1">
