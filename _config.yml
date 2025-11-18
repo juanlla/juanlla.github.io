@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png" # TODO: Replace with the filename of your profile photo stored in `images/`.
   location         : "Stockholm, Sweden" # TODO: Update with your city and country.
-  employer         : "IIES, Stockholm University" # TODO: Update with your current affiliation.
+  employer         : #"IIES, Stockholm University" # TODO: Update with your current affiliation.
   uri              : # TODO: Personal or departmental homepage URL.
   email            : "juan.llavadorperalt@iies.su.se" # TODO: Replace with your contact email or remove.
 
