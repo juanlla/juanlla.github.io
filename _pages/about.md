@@ -27,6 +27,8 @@ References: <a href="http://perseus.iies.su.se/~pkrus/" target="_blank" rel="noo
 
 Download my <a href="/files/cv/cv.pdf" target="_blank" rel="noopener">CV</a> and <a href="/files/Llavador-JMP.pdf" target="_blank" rel="noopener">Job Market Paper</a>.
 
+Feel free to contact me at: <a href="mailto:juan.llavadorperalt@iies.su.se">juan.llavadorperalt@iies.su.se</a>.
+
 ---
 <section id="research-papers" class="section-block" markdown="1">
 Working Papers
