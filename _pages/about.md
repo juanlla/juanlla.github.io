@@ -60,12 +60,12 @@ Teaching
 
 <!-- TODO: Use `_teaching/` entries for more detail; list highlights here. -->
 - **PhD Mathematics II** — (Probability Part) Lecturer, Stockholm Doctoral Program in Economics (2024)
-  - [`Course outline`](/files/math2/outline.pdf){:target="_blank" rel="noopener"} 
-  - [`Slides 1`](/files/math2/slides1.pdf){:target="_blank" rel="noopener"} 
-  - [`Slides 2`](/files/math2/slides2.pdf){:target="_blank" rel="noopener"} · [`Handwritten Notes`](/files/math2/class2_notes.pdf)
-  - [`Slides 3`](/files/math2/slides3.pdf){:target="_blank" rel="noopener"} · [`Handwritten Notes`](/files/math2/class3_notes.pdf)
-  - [`Slides 4`](/files/math2/slides4.pdf){:target="_blank" rel="noopener"} · [`Handwritten Notes`](/files/math2/class4_notes.pdf)
-  - [`Slides 5`](/files/math2/slides5.pdf){:target="_blank" rel="noopener"}
+  - <a href="/files/math2/syllabus.pdf" target="_blank" rel="noopener">Syllabus</a>
+  - <a href="/files/math2/slides1.pdf" target="_blank" rel="noopener">Lecture 1</a> 
+  - <a href="/files/math2/slides2.pdf" target="_blank" rel="noopener">Lecture 2</a> · <a href="/files/math2/class2_notes.pdf" target="_blank" rel="noopener">Handwritten Notes</a>
+  - <a href="/files/math2/slides3.pdf" target="_blank" rel="noopener">Lecture 3</a> · <a href="/files/math2/class3_notes.pdf" target="_blank" rel="noopener">Handwritten Notes</a>
+  - <a href="/files/math2/slides4.pdf" target="_blank" rel="noopener">Lecture 4</a> · <a href="/files/math2/class4_notes.pdf" target="_blank" rel="noopener">Handwritten Notes</a>
+  - <a href="/files/math2/slides5.pdf" target="_blank" rel="noopener">Lecture 5</a>
 </section>
 - **PhD Macroeconomics I** - Teaching Assistant, Stockholm Doctoral Program in Economics (2022)
 - **EC210 Macroeconomic Principles** - Teaching Assistant, LSE (2019-2020)
