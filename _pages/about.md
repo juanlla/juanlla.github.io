@@ -40,7 +40,7 @@ Working Papers
 
 
 <!-- TODO: Keep a short blurb (1-2 sentences) describing your research focus. -->
-### Inflation Persistence and a New Phillips Curve, 2024
+### Inflation Persistence and a New Phillips Curve, 2025
 (with <a href="https://hkchekc.github.io" target="_blank" rel="noopener">Chek Choi</a>, <a href="https://sites.google.com/site/marcushagedornresearch/" target="_blank" rel="noopener">Marcus Hagedorn</a> and <a href="http://www.kurtmitman.com" target="_blank" rel="noopener">Kurt Mitman</a>)
 <a href="/files/NKPC_slides.pdf" target="_blank" rel="noopener">Slides</a>  <a href="/files/NKPC.pdf" target="_blank" rel="noopener">PDF</a>
 
