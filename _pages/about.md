@@ -60,7 +60,6 @@ Teaching
 
 <!-- TODO: Use `_teaching/` entries for more detail; list highlights here. -->
 - **PhD Mathematics II** — (Probability Part) Lecturer, Stockholm Doctoral Program in Economics (2024)
-  - <a href="/files/math2/syllabus.pdf" target="_blank" rel="noopener">Syllabus</a>
   - <a href="/files/math2/slides1.pdf" target="_blank" rel="noopener">Lecture 1</a> 
   - <a href="/files/math2/slides2.pdf" target="_blank" rel="noopener">Lecture 2</a> · <a href="/files/math2/class2_notes.pdf" target="_blank" rel="noopener">Handwritten Notes</a>
   - <a href="/files/math2/slides3.pdf" target="_blank" rel="noopener">Lecture 3</a> · <a href="/files/math2/class3_notes.pdf" target="_blank" rel="noopener">Handwritten Notes</a>
